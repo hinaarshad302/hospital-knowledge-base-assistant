@@ -1,0 +1,13 @@
+# Secrets
+.streamlit/secrets.toml
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Logs
+streamlit_log.txt
